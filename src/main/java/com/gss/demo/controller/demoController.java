@@ -13,6 +13,6 @@ public class demoController {
 
     @GetMapping("/view")
     public String view() {
-        return "Hello, How are you?";
+        return "Hello, How are you? i am fine";
     }
 }
